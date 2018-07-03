@@ -74,7 +74,7 @@ class SimpleMap extends Component {
        />
        
       </GoogleMapReact>
-      <Img className="input1"/>
+      
      </div>
     
   </div>
