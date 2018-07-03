@@ -31,7 +31,7 @@ class SimpleMap extends Component {
 
         <hr/>
          <div>
-         <Img src="humidity.jpg"></Img>
+         
            </div>
                          
            <div className="row">
